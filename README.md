@@ -1,41 +1,40 @@
-# Cybersecurity Learning Journal
+# Cybersecurity Portfolio
 
-Welcome to my cybersecurity learning journey.
+Welcome to my cybersecurity portfolio.
 
-This repository documents my hands-on practice, labs, notes, and small security tools as I build my skills in cybersecurity.
-
-
-##  Goals
-Learn core cybersecurity fundamentals
-Build hands-on lab experience
-Practice ethical hacking tools
-Develop security automation scripts
+This repository showcases my hands-on learning journey in cybersecurity, including labs, tools, and technical documentation.
 
 
 
-##  Labs
-Kali Linux basics
+## About Me
+I am building practical cybersecurity skills through hand son labs, scripting, and security analysis.
+
+My focus areas include:
+Network security
+Ethical hacking fundamentals
+Security tools and automation
+Linux and system reconnaissance
+
+
+
+## Labs
 Network scanning with Nmap
+Linux system reconnaissance
 Vulnerability exploration
-Traffic analysis
 
 
 ## Tools
- Python security scripts
- Network scanners
- Log analysis tools
- Kali linus 
- Ubuntu 
- Wireshark 
-
+Python port scanner
+Linux recon scripts
+Security automation experiments
 
 
 ##  Notes
+CIA Triad (Confidentiality, Integrity, Availability)
+ Common attack types (phishing, MITM, brute force)
 Cybersecurity fundamentals
-Threat types and attack methods
-Security frameworks (CIA triad, etc.)
 
 
 
-##  Disclaimer
-All work in this repository is for educational purposes only.
+## Disclaimer
+All projects are for educational and ethical learning purposes only.
